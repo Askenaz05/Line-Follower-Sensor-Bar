@@ -1,2 +1,4 @@
 # Line-Follower-Sensor-Bar
-(sensor_bar.png)
+## 3D Model Design
+![PCB Render](sensor_bar.png)
+
